@@ -3,6 +3,7 @@
 **Botify for Google Sheets** allows you to easily get Botify data in your spreadsheets.
 Note that, currently only a small subset of the API is supported by this SDK. Feel free to customize our macros or contributing to the project.
 
+**Important: This integration is only supported with Botify’s original API, which uses BQLv1. This integration cannot be used with the current API (BQLv2) since the data retrieval method has changed.**
 
 ## Install
 
