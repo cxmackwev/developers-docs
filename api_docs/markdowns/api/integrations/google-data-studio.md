@@ -2,6 +2,8 @@
 
 Botify's **Google Data Studio Connector** allows you to easily get Botify data in your Google Data Studio Dashboards.
 
+**Important: This integration is only supported with Botify’s original API, which uses BQLv1. This integration cannot be used with the current API (BQLv2) since the data retrieval method has changed.**
+
 ## Install
 ### Creating a new Data Studio Dashboard with your Botify data
 - Open the [Data sources](https://datastudio.google.com/u/0/datasources/create?connectorId=AKfycbz5tAY6RxeLAHQ1RUFz50XAynNdHzOTd9jstbdmxGw) list on Google's Connector Gallery
